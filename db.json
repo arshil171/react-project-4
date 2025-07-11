@@ -1,0 +1,53 @@
+{
+  "product": [
+    {
+      "id": "ebbf",
+      "title": "Radmi",
+      "price": "100000",
+      "image": "",
+      "category": "phone"
+    },
+    {
+      "id": "9bd6",
+      "title": "bat mrf",
+      "price": "2000",
+      "image": "",
+      "category": "cricket"
+    },
+    {
+      "id": "490e",
+      "title": "poco m7",
+      "price": "30000",
+      "image": "",
+      "category": "phone"
+    },
+    {
+      "id": "40bb",
+      "title": "nike1",
+      "price": "10000",
+      "image": "",
+      "category": "shoes"
+    },
+    {
+      "id": "0660",
+      "title": "puma",
+      "price": "2000",
+      "image": "",
+      "category": "shoes"
+    },
+    {
+      "id": "9e5e",
+      "title": "nike 17",
+      "price": "1000",
+      "image": "",
+      "category": "shoes"
+    },
+    {
+      "id": "610f",
+      "title": "nike1",
+      "price": "2000",
+      "image": "",
+      "category": "shoes"
+    }
+  ]
+}
