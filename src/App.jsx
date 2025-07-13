@@ -5,6 +5,7 @@ import Update from './components/Update'
 
 import Home from './components/Home'
 import Navbar from './components/Navbar'
+import Cart from './components/Cart'
 
 const App = () => {
   return(
@@ -14,6 +15,7 @@ const App = () => {
  
       <Route path='/' element={<Home/>}/>
       <Route path='/update/:id' element={<Update/>}/>
+      <Route path='/cart' element={<Cart/>}/>
 
     </Routes>
   
